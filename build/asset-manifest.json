@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.71bcd162.css",
+    "main.js": "/static/js/main.23f69dd9.js",
+    "static/media/herov.jpg": "/static/media/herov.beaf0f8f23300b83b3ee.jpg",
+    "static/media/logo.png": "/static/media/logo.cba940861dd8aabf4a90.png",
+    "index.html": "/index.html",
+    "main.71bcd162.css.map": "/static/css/main.71bcd162.css.map",
+    "main.23f69dd9.js.map": "/static/js/main.23f69dd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71bcd162.css",
+    "static/js/main.23f69dd9.js"
+  ]
+}
